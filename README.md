@@ -1,1 +1,1 @@
-# machine_learning_in_finance_Tesla
+# INFO 7374 Machine Learning in Finance
